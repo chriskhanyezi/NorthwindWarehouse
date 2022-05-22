@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>false</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Categories\Category.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Products\Product.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Suppliers\SupplierSelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Suppliers\Supplier.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="WinPart\WinPart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

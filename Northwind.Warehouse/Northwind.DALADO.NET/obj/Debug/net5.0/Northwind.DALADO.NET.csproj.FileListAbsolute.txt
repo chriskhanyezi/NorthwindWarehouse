@@ -1,0 +1,15 @@
+C:\Users\KHANYEZIC\source\repos\Northwind.Warehouse\Northwind.DALADO.NET\bin\Debug\net5.0\Northwind.DALADO.NET.deps.json
+C:\Users\KHANYEZIC\source\repos\Northwind.Warehouse\Northwind.DALADO.NET\bin\Debug\net5.0\Northwind.DALADO.NET.dll
+C:\Users\KHANYEZIC\source\repos\Northwind.Warehouse\Northwind.DALADO.NET\bin\Debug\net5.0\ref\Northwind.DALADO.NET.dll
+C:\Users\KHANYEZIC\source\repos\Northwind.Warehouse\Northwind.DALADO.NET\bin\Debug\net5.0\Northwind.DALADO.NET.pdb
+C:\Users\KHANYEZIC\source\repos\Northwind.Warehouse\Northwind.DALADO.NET\bin\Debug\net5.0\Northwind.DataAccess.dll
+C:\Users\KHANYEZIC\source\repos\Northwind.Warehouse\Northwind.DALADO.NET\bin\Debug\net5.0\Northwind.DataAccess.pdb
+C:\Users\KHANYEZIC\source\repos\Northwind.Warehouse\Northwind.DALADO.NET\obj\Debug\net5.0\Northwind.DALADO.NET.csproj.AssemblyReference.cache
+C:\Users\KHANYEZIC\source\repos\Northwind.Warehouse\Northwind.DALADO.NET\obj\Debug\net5.0\Northwind.DALADO.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KHANYEZIC\source\repos\Northwind.Warehouse\Northwind.DALADO.NET\obj\Debug\net5.0\Northwind.DALADO.NET.AssemblyInfoInputs.cache
+C:\Users\KHANYEZIC\source\repos\Northwind.Warehouse\Northwind.DALADO.NET\obj\Debug\net5.0\Northwind.DALADO.NET.AssemblyInfo.cs
+C:\Users\KHANYEZIC\source\repos\Northwind.Warehouse\Northwind.DALADO.NET\obj\Debug\net5.0\Northwind.DALADO.NET.csproj.CoreCompileInputs.cache
+C:\Users\KHANYEZIC\source\repos\Northwind.Warehouse\Northwind.DALADO.NET\obj\Debug\net5.0\Northwind.DALADO.NET.csproj.CopyComplete
+C:\Users\KHANYEZIC\source\repos\Northwind.Warehouse\Northwind.DALADO.NET\obj\Debug\net5.0\Northwind.DALADO.NET.dll
+C:\Users\KHANYEZIC\source\repos\Northwind.Warehouse\Northwind.DALADO.NET\obj\Debug\net5.0\ref\Northwind.DALADO.NET.dll
+C:\Users\KHANYEZIC\source\repos\Northwind.Warehouse\Northwind.DALADO.NET\obj\Debug\net5.0\Northwind.DALADO.NET.pdb

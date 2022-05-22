@@ -1,0 +1,7 @@
+C:\Users\KHANYEZIC\source\repos\Northwind.Warehouse\Northwind.DevExpressUI.WinForms\obj\Debug\net5.0-windows\Northwind.DevExpressUI.WinForms.csproj.AssemblyReference.cache
+C:\Users\KHANYEZIC\source\repos\Northwind.Warehouse\Northwind.DevExpressUI.WinForms\obj\Debug\net5.0-windows\Northwind.DevExpressUI.WinForms.Form1.resources
+C:\Users\KHANYEZIC\source\repos\Northwind.Warehouse\Northwind.DevExpressUI.WinForms\obj\Debug\net5.0-windows\Northwind.DevExpressUI.WinForms.csproj.GenerateResource.cache
+C:\Users\KHANYEZIC\source\repos\Northwind.Warehouse\Northwind.DevExpressUI.WinForms\obj\Debug\net5.0-windows\Northwind.DevExpressUI.WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KHANYEZIC\source\repos\Northwind.Warehouse\Northwind.DevExpressUI.WinForms\obj\Debug\net5.0-windows\Northwind.DevExpressUI.WinForms.AssemblyInfoInputs.cache
+C:\Users\KHANYEZIC\source\repos\Northwind.Warehouse\Northwind.DevExpressUI.WinForms\obj\Debug\net5.0-windows\Northwind.DevExpressUI.WinForms.AssemblyInfo.cs
+C:\Users\KHANYEZIC\source\repos\Northwind.Warehouse\Northwind.DevExpressUI.WinForms\obj\Debug\net5.0-windows\Northwind.DevExpressUI.WinForms.csproj.CoreCompileInputs.cache

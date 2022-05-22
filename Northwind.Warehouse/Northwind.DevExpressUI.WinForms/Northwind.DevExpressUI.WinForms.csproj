@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="DevExpress.Dashboard.v21.2.Installers">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\DevExpress 21.2\Components\System\Dashboard\DevExpress.Dashboard.v21.2.Installers.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
